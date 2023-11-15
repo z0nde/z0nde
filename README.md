@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I`m Artem 👋
 * C# / .NET
 * Linq
 * Entity Framework Core
