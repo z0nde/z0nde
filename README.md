@@ -1,4 +1,4 @@
-### Hello, I`m Artem 👋
+### Hello, I`m Artem, Junior C# Developer
 * C# / .NET
 * Linq
 * Entity Framework Core
